@@ -1,0 +1,3 @@
+# Bachelor-s-Major-Project
+Title- DESIGN AND ANALYSIS OF G+4 STOREY RESIDENTIAL BUILDING BY USING AUTOCAD AND STAADPRO
+Abstract- The present project deals with the analysis of a multi-storeyed residential building of G+4.The dead loads, live loads and wind loads are applied.The design has been done according to the Limit state method and confirming to Indian Standards code IS 456-2000 for various structural and non-structural components.Further reinforcement detailing for various structural elements being made as per SP-16. The structural elements like slab, beam, column, footing and staircase has being designed and detailing was incorporated by designing these structural elements. 
